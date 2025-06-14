@@ -46,8 +46,6 @@ This project explores the relationship between various audio features and the po
    ```bash
    jupyter notebook music_analysis.ipynb
    ```
----
-
-## 📄 License
-
-This project is open-source and can be used for educational or portfolio purposes.
+   
+-Skills-
+`EDA`, `Music Analytics`, `Spotify Dataset`, `Feature Engineering`, `Regression`, `Pandas`, `scikit-learn`, `Data Visualization`, `R² Score`
